@@ -3,5 +3,8 @@ pandas
 plotly
 matplotlib
 numpy
-
+wordcloud
+scikit-learn
+nltk
+seaborn
 
