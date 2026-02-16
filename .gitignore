@@ -24,6 +24,7 @@ secrets.py
 
 # OS files
 .DS_Store
+
 Thumbs.db
 
 # IDE
