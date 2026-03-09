@@ -1,6 +1,6 @@
 # 📊 News Bias Analyzer
 
-🚀 **[VIEW LIVE DASHBOARD](https://claude.ai/chat/3ed2bff5-c56d-41c1-87ee-26ec70851f39)**
+🚀 **[VIEW LIVE DASHBOARD]
 
 An NLP-powered platform analyzing media bias and sentiment in news articles.
 
