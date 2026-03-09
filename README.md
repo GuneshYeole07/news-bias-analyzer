@@ -1,6 +1,6 @@
 # 📊 News Bias Analyzer
 
-🚀 **[VIEW LIVE DASHBOARD]
+🚀 **[VIEW LIVE DASHBOARD]**
 
 An NLP-powered platform analyzing media bias and sentiment in news articles.
 
