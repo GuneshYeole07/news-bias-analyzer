@@ -1,5 +1,5 @@
 """
-Daily Refresh Pipeline — BOBO
+Daily Refresh Pipeline — News Bias Analyzer
 =============================================
 Collects fresh articles from NewsAPI, preprocesses them, runs sentiment
 analysis, and appends to the existing dataset (deduplicating).
@@ -269,7 +269,7 @@ def run(topic_count: int | None = None):
     topics = ALL_TOPICS[:topic_count] if topic_count else ALL_TOPICS
 
     print("=" * 55)
-    print("  BOBO -- Daily Refresh")
+    print("  News Bias Analyzer -- Daily Refresh")
     print(f"    {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 55)
 
@@ -319,7 +319,7 @@ def run(topic_count: int | None = None):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="BOBO daily refresh")
+    parser = argparse.ArgumentParser(description="News Bias Analyzer daily refresh")
     parser.add_argument("--topics", type=int, default=None, help="Number of topics to fetch (default: all 8)")
     args = parser.parse_args()
     run(topic_count=args.topics)

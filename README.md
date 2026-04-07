@@ -1,4 +1,4 @@
-# 📊 BOBO
+# 📊 News Bias Analyzer
 
 🚀 **[VIEW LIVE DASHBOARD](https://news-bias-analyzer-x3ztkanac2d7retjgp8ont.streamlit.app/)**
 

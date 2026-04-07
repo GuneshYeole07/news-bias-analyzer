@@ -14,7 +14,7 @@ from pathlib import Path
 # PAGE CONFIGURATION
 # ============================================
 st.set_page_config(
-    page_title="BOBO",
+    page_title="News Bias Analyzer",
     page_icon="N",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -458,7 +458,7 @@ def get_sentiment_fill_color(score):
 # ============================================
 st.markdown("""
 <div class="hero-header">
-    <h1>BOBO</h1>
+    <h1>News Bias Analyzer</h1>
     <p class="hero-tagline">Analyzing Media Bias Using NLP &amp; Machine Learning</p>
     <hr class="hero-rule">
 </div>
