@@ -7,4 +7,5 @@ wordcloud
 scikit-learn
 nltk
 seaborn
-
+python-dotenv
+schedule
